@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Roshan soorma",
+        "email":"roshansoorma@gmail.com",
+        "city" : 1,
+        "age" : 25
+    },
+    {
+        "name" : "Deependra soorma",
+        "email":"deep123@gmail.com",
+        "city" : 3,
+        "age" : 24
+    },
+    {
+        "name" : "Durgesh raghu",
+        "email":"durgesh@gmail.com",
+        "city" : 3,
+        "age" : 23
+    },
+    {
+        "name" : "abhishek darbar",
+        "email":"abhi@gmail.com",
+        "city" : 2,
+        "age" : 24
+    },
+    {
+        "name" : "Nayak",
+        "email":"n123@gmail.com",
+        "city" : 1,
+        "age" : 22
+    },
+    {
+        "name" : "Bhupendra yaduwanshi",
+        "email":"bhup@gmail.com",
+        "city" : 2,
+        "age" : 25
+    },
+    {
+        "name" : "Mohit yadav",
+        "email":"yadav@gmail.com",
+        "city" : 3,
+        "age" : 20
+    },
+    {
+        "name" : "Aryan raghu",
+        "email":"aarya@gmail.com",
+        "city" : 1,
+        "age" : 21
+    },
+    {
+        "name" : "Ayush raghuwanshi",
+        "email":"Ayus@gmail.com",
+        "city" : 2,
+        "age" : 23
+    },
+    {
+        "name" : "Khalnayak sanjay",
+        "email":"ks@gmail.com",
+        "city" : 3,
+        "age" : 22
+    }
+]
